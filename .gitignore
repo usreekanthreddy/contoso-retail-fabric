@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Spark/Fabric local
+spark-warehouse/
+*.crc
