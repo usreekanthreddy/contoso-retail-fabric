@@ -1,0 +1,59 @@
+// ============================================================
+// Contoso Retail 360 - DAX measures for sm_retail_sales
+// Add these to the Direct Lake semantic model (Gold tables).
+// Create a measure table or place on FactSales.
+// ============================================================
+
+// ---- Base measures ----
+Total Sales = SUM ( FactSales[SalesAmount] )
+
+Total Units = SUM ( FactSales[Quantity] )
+
+Total Cost = SUMX ( FactSales, FactSales[Quantity] * FactSales[UnitCost] )
+
+Gross Margin = [Total Sales] - [Total Cost]
+
+Gross Margin % = DIVIDE ( [Gross Margin], [Total Sales] )
+
+Total Discount = SUM ( FactSales[DiscountAmount] )
+
+Order Count = DISTINCTCOUNT ( FactSales[OrderNumber] )
+
+Avg Basket Size = DIVIDE ( [Total Sales], [Order Count] )
+
+Avg Selling Price = DIVIDE ( [Total Sales], [Total Units] )
+
+// ---- Time intelligence (requires DimDate marked as the date table) ----
+Sales LY =
+    CALCULATE ( [Total Sales], SAMEPERIODLASTYEAR ( DimDate[Date] ) )
+
+Sales YoY =
+    [Total Sales] - [Sales LY]
+
+Sales YoY % =
+    DIVIDE ( [Sales YoY], [Sales LY] )
+
+Sales MTD =
+    CALCULATE ( [Total Sales], DATESMTD ( DimDate[Date] ) )
+
+Sales YTD =
+    CALCULATE ( [Total Sales], DATESYTD ( DimDate[Date] ) )
+
+Sales PM =
+    CALCULATE ( [Total Sales], PREVIOUSMONTH ( DimDate[Date] ) )
+
+Sales MoM % =
+    DIVIDE ( [Total Sales] - [Sales PM], [Sales PM] )
+
+// ---- Customer / mix ----
+Active Customers = DISTINCTCOUNT ( FactSales[CustomerKey] )
+
+Online Sales % =
+    DIVIDE (
+        CALCULATE ( [Total Sales], DimChannel[Channel] = "Online" ),
+        [Total Sales]
+    )
+
+// ---- Ranking helper (use in a visual with Product on rows) ----
+Product Sales Rank =
+    RANKX ( ALLSELECTED ( DimProduct[ProductName] ), [Total Sales],, DESC )
