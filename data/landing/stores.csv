@@ -1,0 +1,13 @@
+StoreId,StoreName,City,Region,Country,Format,OpenDate
+S-001,Contoso Seattle,Seattle,West,USA,Flagship,2017-10-15
+S-002,Contoso Portland,Portland,West,USA,Flagship,2017-02-18
+S-003,Contoso San Francisco,San Francisco,West,USA,Express,2020-01-12
+S-004,Contoso Los Angeles,Los Angeles,West,USA,Flagship,2019-09-25
+S-005,Contoso Chicago,Chicago,Central,USA,Flagship,2018-02-14
+S-006,Contoso Dallas,Dallas,Central,USA,Standard,2017-10-20
+S-007,Contoso Denver,Denver,Central,USA,Flagship,2019-12-21
+S-008,Contoso Austin,Austin,Central,USA,Express,2016-02-06
+S-009,Contoso New York,New York,East,USA,Flagship,2021-01-23
+S-010,Contoso Boston,Boston,East,USA,Flagship,2016-01-18
+S-011,Contoso Atlanta,Atlanta,East,USA,Flagship,2016-11-12
+S-012,Contoso Miami,Miami,East,USA,Standard,2020-06-12

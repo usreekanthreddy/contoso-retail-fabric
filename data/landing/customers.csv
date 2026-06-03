@@ -1,0 +1,501 @@
+CustomerId,FullName,Segment,City,LoyaltyTier,SignupDate
+C-00001,Jamie Garcia,Corporate,Seattle,Bronze,2018-01-09
+C-00002,Riley Brown,Corporate,Chicago,Silver,2024-03-26
+C-00003,Drew Moore,Corporate,San Francisco,Bronze,2020-06-10
+C-00004,Alex Anderson,Home Office,New York,Bronze,2021-07-08
+C-00005,Alex Smith,Home Office,Austin,Silver,2023-12-16
+C-00006,Jordan Smith,Home Office,Portland,Gold,2018-10-08
+C-00007,Quinn Johnson,Home Office,Los Angeles,Silver,2024-05-22
+C-00008,Taylor Anderson,Home Office,Seattle,Silver,2022-09-14
+C-00009,Drew Anderson,Home Office,New York,Bronze,2020-12-04
+C-00010,Taylor Thomas,Home Office,Dallas,Bronze,2022-06-10
+C-00011,Jordan Thomas,Home Office,Chicago,Silver,2018-10-25
+C-00012,Alex Lopez,Home Office,Boston,Platinum,2018-10-28
+C-00013,Avery Garcia,Home Office,Chicago,Bronze,2021-11-30
+C-00014,Reese Johnson,Consumer,Dallas,Bronze,2022-11-30
+C-00015,Cameron Wilson,Home Office,Chicago,Silver,2025-05-02
+C-00016,Avery Smith,Home Office,New York,Bronze,2025-06-10
+C-00017,Sam Nguyen,Consumer,Chicago,Bronze,2019-03-15
+C-00018,Skyler Wilson,Consumer,Chicago,Bronze,2020-05-12
+C-00019,Skyler Martinez,Consumer,Atlanta,Silver,2020-12-17
+C-00020,Avery Lopez,Corporate,Seattle,Bronze,2022-10-01
+C-00021,Cameron Brown,Consumer,Seattle,Bronze,2019-06-20
+C-00022,Drew Brown,Consumer,Miami,Silver,2025-11-30
+C-00023,Riley Wilson,Consumer,Portland,Bronze,2025-10-01
+C-00024,Reese Lee,Home Office,Seattle,Gold,2024-07-13
+C-00025,Avery Lee,Corporate,San Francisco,Bronze,2022-02-02
+C-00026,Reese Nguyen,Consumer,Dallas,Bronze,2020-10-19
+C-00027,Drew Johnson,Corporate,New York,Gold,2022-07-23
+C-00028,Quinn Moore,Consumer,Los Angeles,Gold,2019-12-27
+C-00029,Reese Davis,Consumer,San Francisco,Gold,2021-09-22
+C-00030,Robin Nguyen,Corporate,Atlanta,Gold,2020-10-13
+C-00031,Morgan Lee,Home Office,Portland,Bronze,2018-06-08
+C-00032,Cameron Lopez,Consumer,Los Angeles,Gold,2023-03-01
+C-00033,Casey Brown,Consumer,Los Angeles,Bronze,2020-03-02
+C-00034,Riley Martinez,Corporate,Portland,Platinum,2021-02-17
+C-00035,Casey Thomas,Home Office,Denver,Silver,2024-01-06
+C-00036,Casey Smith,Consumer,Chicago,Bronze,2020-12-23
+C-00037,Alex Johnson,Home Office,Denver,Bronze,2021-07-08
+C-00038,Riley Anderson,Home Office,Portland,Bronze,2024-06-19
+C-00039,Taylor Brown,Consumer,Miami,Silver,2023-10-31
+C-00040,Reese Jackson,Home Office,Atlanta,Gold,2025-07-09
+C-00041,Taylor Martinez,Corporate,Portland,Platinum,2021-09-14
+C-00042,Quinn Martinez,Home Office,Portland,Gold,2021-05-15
+C-00043,Avery Brown,Home Office,Denver,Bronze,2025-10-26
+C-00044,Morgan Wilson,Consumer,Los Angeles,Silver,2022-04-02
+C-00045,Drew Moore,Consumer,Boston,Silver,2022-07-22
+C-00046,Avery Patel,Consumer,Chicago,Bronze,2022-10-27
+C-00047,Robin Anderson,Home Office,Atlanta,Bronze,2022-12-15
+C-00048,Jamie Thomas,Consumer,New York,Silver,2019-11-27
+C-00049,Drew Johnson,Corporate,New York,Silver,2024-12-11
+C-00050,Casey Johnson,Consumer,Atlanta,Bronze,2020-03-26
+C-00051,Jordan Smith,Consumer,Los Angeles,Platinum,2024-11-08
+C-00052,Cameron Jackson,Consumer,Austin,Silver,2025-01-23
+C-00053,Quinn Garcia,Home Office,Miami,Bronze,2022-06-25
+C-00054,Taylor Lee,Home Office,Miami,Bronze,2019-03-13
+C-00055,Robin Davis,Consumer,San Francisco,Gold,2025-10-21
+C-00056,Avery Lopez,Consumer,New York,Bronze,2019-05-13
+C-00057,Jamie Lee,Corporate,Atlanta,Silver,2024-04-08
+C-00058,Quinn Martinez,Corporate,Boston,Gold,2023-08-30
+C-00059,Riley Patel,Home Office,Austin,Gold,2023-04-29
+C-00060,Jamie Brown,Consumer,Atlanta,Bronze,2023-11-06
+C-00061,Jamie Thomas,Consumer,Chicago,Silver,2021-03-16
+C-00062,Taylor Brown,Corporate,Dallas,Gold,2018-11-27
+C-00063,Jordan Lee,Consumer,Denver,Silver,2025-12-03
+C-00064,Taylor Johnson,Corporate,Denver,Bronze,2023-03-24
+C-00065,Riley Smith,Consumer,Denver,Bronze,2024-07-20
+C-00066,Skyler Smith,Home Office,Denver,Silver,2021-12-11
+C-00067,Morgan Jackson,Corporate,Denver,Silver,2024-02-15
+C-00068,Robin Anderson,Consumer,Austin,Bronze,2022-11-21
+C-00069,Jamie Smith,Corporate,Dallas,Silver,2022-07-15
+C-00070,Skyler Lee,Corporate,San Francisco,Platinum,2023-12-28
+C-00071,Alex Nguyen,Corporate,Boston,Silver,2018-04-22
+C-00072,Sam Thomas,Corporate,San Francisco,Gold,2020-01-15
+C-00073,Alex Brown,Corporate,Dallas,Bronze,2021-08-31
+C-00074,Casey Jackson,Corporate,Chicago,Gold,2022-09-23
+C-00075,Morgan Patel,Consumer,Austin,Bronze,2024-01-19
+C-00076,Alex Martinez,Consumer,Atlanta,Bronze,2025-04-23
+C-00077,Alex Jackson,Consumer,Los Angeles,Bronze,2018-03-25
+C-00078,Quinn Lee,Consumer,San Francisco,Silver,2019-04-14
+C-00079,Quinn Garcia,Corporate,Miami,Bronze,2022-02-19
+C-00080,Jordan Anderson,Home Office,Miami,Gold,2019-11-02
+C-00081,Morgan Johnson,Home Office,Seattle,Platinum,2024-06-16
+C-00082,Drew Nguyen,Corporate,Denver,Platinum,2020-03-23
+C-00083,Sam Anderson,Home Office,Atlanta,Bronze,2025-10-26
+C-00084,Robin Brown,Home Office,Boston,Gold,2024-05-07
+C-00085,Robin Smith,Corporate,New York,Silver,2022-02-26
+C-00086,Sam Wilson,Home Office,Dallas,Bronze,2022-09-17
+C-00087,Cameron Lopez,Consumer,Denver,Platinum,2025-02-16
+C-00088,Reese Patel,Corporate,Miami,Bronze,2019-12-23
+C-00089,Skyler Wilson,Home Office,Chicago,Silver,2024-01-14
+C-00090,Robin Lopez,Corporate,Denver,Gold,2024-08-23
+C-00091,Morgan Martinez,Consumer,Portland,Bronze,2023-01-21
+C-00092,Taylor Jackson,Corporate,Boston,Silver,2022-04-02
+C-00093,Casey Smith,Corporate,Dallas,Bronze,2020-05-18
+C-00094,Casey Jackson,Corporate,Dallas,Bronze,2024-09-07
+C-00095,Skyler Nguyen,Corporate,New York,Bronze,2020-02-22
+C-00096,Sam Garcia,Home Office,Denver,Silver,2020-09-11
+C-00097,Skyler Lopez,Home Office,Miami,Silver,2018-03-12
+C-00098,Sam Brown,Consumer,Denver,Silver,2021-06-08
+C-00099,Drew Anderson,Corporate,Austin,Silver,2021-11-09
+C-00100,Riley Moore,Home Office,Dallas,Bronze,2023-02-02
+C-00101,Morgan Brown,Corporate,Los Angeles,Bronze,2020-02-28
+C-00102,Casey Johnson,Home Office,New York,Platinum,2025-09-27
+C-00103,Jordan Garcia,Consumer,Miami,Silver,2024-08-11
+C-00104,Robin Wilson,Home Office,Chicago,Platinum,2020-03-06
+C-00105,Morgan Garcia,Corporate,San Francisco,Bronze,2025-12-10
+C-00106,Avery Lee,Corporate,Seattle,Platinum,2024-03-16
+C-00107,Morgan Moore,Consumer,Atlanta,Gold,2023-07-04
+C-00108,Sam Patel,Consumer,Boston,Bronze,2023-05-15
+C-00109,Jamie Martinez,Consumer,Seattle,Bronze,2023-05-11
+C-00110,Sam Patel,Consumer,Denver,Silver,2024-06-21
+C-00111,Drew Thomas,Consumer,San Francisco,Bronze,2024-04-24
+C-00112,Morgan Johnson,Consumer,Portland,Silver,2022-09-01
+C-00113,Quinn Anderson,Home Office,Los Angeles,Gold,2022-04-08
+C-00114,Jamie Nguyen,Corporate,Chicago,Gold,2022-10-23
+C-00115,Morgan Anderson,Home Office,Seattle,Silver,2019-02-11
+C-00116,Robin Garcia,Home Office,Los Angeles,Bronze,2018-11-29
+C-00117,Jordan Garcia,Consumer,New York,Bronze,2018-01-11
+C-00118,Riley Lopez,Home Office,Boston,Silver,2018-05-14
+C-00119,Taylor Brown,Home Office,Chicago,Gold,2023-02-03
+C-00120,Sam Thomas,Consumer,Chicago,Gold,2025-01-04
+C-00121,Quinn Thomas,Consumer,Denver,Bronze,2020-07-09
+C-00122,Drew Lee,Corporate,San Francisco,Bronze,2019-11-11
+C-00123,Robin Brown,Home Office,Miami,Gold,2021-03-28
+C-00124,Jamie Johnson,Corporate,Miami,Bronze,2022-07-07
+C-00125,Morgan Wilson,Home Office,Austin,Silver,2024-09-15
+C-00126,Alex Nguyen,Corporate,Miami,Bronze,2020-10-22
+C-00127,Alex Johnson,Consumer,Atlanta,Gold,2024-06-14
+C-00128,Quinn Smith,Home Office,Chicago,Silver,2019-12-19
+C-00129,Jamie Wilson,Home Office,Austin,Platinum,2020-01-14
+C-00130,Quinn Davis,Home Office,Austin,Platinum,2023-04-10
+C-00131,Casey Davis,Corporate,Dallas,Silver,2019-10-21
+C-00132,Casey Davis,Home Office,Austin,Bronze,2022-06-29
+C-00133,Cameron Jackson,Home Office,Seattle,Silver,2021-07-12
+C-00134,Morgan Martinez,Consumer,Denver,Gold,2018-01-05
+C-00135,Drew Patel,Home Office,Austin,Silver,2020-02-08
+C-00136,Avery Martinez,Home Office,Austin,Silver,2018-07-31
+C-00137,Taylor Brown,Home Office,San Francisco,Platinum,2022-11-30
+C-00138,Reese Moore,Corporate,Portland,Bronze,2025-01-24
+C-00139,Quinn Jackson,Consumer,Miami,Bronze,2024-03-06
+C-00140,Alex Wilson,Corporate,Portland,Bronze,2019-04-10
+C-00141,Jamie Johnson,Home Office,San Francisco,Silver,2021-04-10
+C-00142,Avery Moore,Corporate,Denver,Gold,2023-04-19
+C-00143,Taylor Lopez,Home Office,San Francisco,Bronze,2024-09-21
+C-00144,Avery Moore,Consumer,Portland,Bronze,2022-08-27
+C-00145,Casey Nguyen,Home Office,Chicago,Gold,2021-03-04
+C-00146,Skyler Brown,Home Office,Boston,Platinum,2023-06-29
+C-00147,Cameron Lee,Corporate,New York,Silver,2021-09-23
+C-00148,Avery Jackson,Home Office,Denver,Silver,2021-08-11
+C-00149,Cameron Garcia,Home Office,Los Angeles,Silver,2020-08-14
+C-00150,Cameron Jackson,Corporate,Seattle,Bronze,2023-04-22
+C-00151,Skyler Nguyen,Corporate,Denver,Platinum,2025-04-24
+C-00152,Jordan Lopez,Consumer,San Francisco,Silver,2024-08-14
+C-00153,Casey Patel,Consumer,Austin,Bronze,2023-02-15
+C-00154,Alex Moore,Consumer,Denver,Gold,2019-09-25
+C-00155,Sam Lopez,Corporate,Dallas,Silver,2022-06-17
+C-00156,Drew Johnson,Corporate,Atlanta,Gold,2022-04-06
+C-00157,Casey Thomas,Home Office,Austin,Gold,2018-05-28
+C-00158,Quinn Johnson,Consumer,Atlanta,Silver,2021-03-23
+C-00159,Taylor Moore,Consumer,Denver,Platinum,2025-02-08
+C-00160,Skyler Patel,Consumer,Austin,Bronze,2021-05-11
+C-00161,Reese Smith,Consumer,Dallas,Gold,2021-04-16
+C-00162,Casey Martinez,Corporate,San Francisco,Bronze,2022-08-15
+C-00163,Quinn Thomas,Consumer,San Francisco,Bronze,2024-11-01
+C-00164,Cameron Davis,Home Office,Atlanta,Bronze,2024-07-16
+C-00165,Jordan Garcia,Corporate,Atlanta,Bronze,2020-11-11
+C-00166,Drew Smith,Corporate,Chicago,Silver,2019-10-10
+C-00167,Sam Lopez,Corporate,Boston,Bronze,2022-10-04
+C-00168,Skyler Brown,Corporate,Chicago,Bronze,2022-04-25
+C-00169,Cameron Lopez,Consumer,Los Angeles,Bronze,2022-01-10
+C-00170,Quinn Brown,Home Office,Chicago,Bronze,2025-05-20
+C-00171,Riley Brown,Consumer,Boston,Gold,2018-07-20
+C-00172,Reese Anderson,Home Office,Austin,Gold,2021-03-18
+C-00173,Robin Jackson,Consumer,Boston,Gold,2020-06-16
+C-00174,Drew Garcia,Home Office,Chicago,Silver,2025-05-24
+C-00175,Drew Patel,Consumer,Atlanta,Bronze,2025-01-14
+C-00176,Drew Smith,Corporate,Austin,Bronze,2022-02-03
+C-00177,Skyler Lee,Consumer,Chicago,Bronze,2022-08-29
+C-00178,Jordan Garcia,Consumer,New York,Gold,2022-02-07
+C-00179,Avery Wilson,Corporate,San Francisco,Bronze,2023-05-28
+C-00180,Robin Brown,Home Office,Dallas,Gold,2023-04-03
+C-00181,Sam Lee,Consumer,Atlanta,Gold,2022-06-16
+C-00182,Cameron Jackson,Home Office,Dallas,Bronze,2022-06-05
+C-00183,Alex Brown,Home Office,Portland,Silver,2025-07-18
+C-00184,Skyler Thomas,Corporate,Boston,Bronze,2025-02-28
+C-00185,Casey Johnson,Home Office,Los Angeles,Silver,2024-12-12
+C-00186,Reese Wilson,Corporate,Boston,Bronze,2018-09-16
+C-00187,Drew Patel,Corporate,Miami,Bronze,2022-07-31
+C-00188,Sam Lee,Consumer,Seattle,Bronze,2023-07-11
+C-00189,Sam Johnson,Consumer,New York,Bronze,2023-02-02
+C-00190,Casey Thomas,Home Office,Miami,Platinum,2022-09-13
+C-00191,Quinn Moore,Home Office,San Francisco,Gold,2025-05-06
+C-00192,Sam Patel,Corporate,Boston,Silver,2021-02-19
+C-00193,Alex Moore,Corporate,Los Angeles,Silver,2020-08-25
+C-00194,Cameron Martinez,Consumer,Atlanta,Bronze,2025-03-26
+C-00195,Casey Smith,Corporate,Chicago,Bronze,2019-05-16
+C-00196,Cameron Patel,Corporate,Portland,Silver,2025-03-13
+C-00197,Drew Anderson,Consumer,Seattle,Gold,2020-09-24
+C-00198,Jordan Jackson,Home Office,Los Angeles,Bronze,2024-03-20
+C-00199,Taylor Anderson,Consumer,Los Angeles,Bronze,2019-08-28
+C-00200,Robin Nguyen,Home Office,Seattle,Bronze,2019-08-16
+C-00201,Jordan Wilson,Corporate,San Francisco,Bronze,2018-04-16
+C-00202,Jordan Smith,Corporate,Los Angeles,Silver,2018-03-06
+C-00203,Jordan Brown,Consumer,San Francisco,Gold,2023-11-25
+C-00204,Sam Moore,Consumer,Austin,Silver,2022-01-22
+C-00205,Avery Anderson,Consumer,Austin,Silver,2024-11-24
+C-00206,Alex Moore,Home Office,New York,Bronze,2025-03-20
+C-00207,Alex Smith,Corporate,Denver,Silver,2019-03-19
+C-00208,Jamie Moore,Corporate,Portland,Gold,2021-08-12
+C-00209,Quinn Lee,Consumer,San Francisco,Bronze,2025-02-06
+C-00210,Quinn Wilson,Home Office,Dallas,Bronze,2024-09-12
+C-00211,Avery Brown,Corporate,New York,Silver,2019-02-11
+C-00212,Robin Moore,Consumer,Atlanta,Silver,2024-03-08
+C-00213,Skyler Patel,Consumer,Denver,Silver,2020-07-24
+C-00214,Riley Martinez,Corporate,Denver,Silver,2019-01-25
+C-00215,Casey Davis,Corporate,Atlanta,Bronze,2019-09-18
+C-00216,Drew Nguyen,Corporate,Portland,Bronze,2018-12-16
+C-00217,Sam Davis,Consumer,Miami,Gold,2019-06-17
+C-00218,Avery Smith,Home Office,New York,Silver,2025-07-07
+C-00219,Sam Davis,Corporate,Atlanta,Platinum,2022-09-29
+C-00220,Cameron Nguyen,Home Office,Seattle,Platinum,2024-09-25
+C-00221,Morgan Martinez,Consumer,Boston,Silver,2019-09-26
+C-00222,Drew Lopez,Consumer,Portland,Bronze,2024-03-28
+C-00223,Casey Johnson,Corporate,Boston,Bronze,2022-10-24
+C-00224,Cameron Wilson,Home Office,Boston,Silver,2024-03-30
+C-00225,Alex Anderson,Home Office,Miami,Bronze,2020-01-09
+C-00226,Morgan Moore,Corporate,Dallas,Bronze,2020-01-14
+C-00227,Cameron Lee,Home Office,Atlanta,Silver,2019-08-05
+C-00228,Skyler Thomas,Consumer,Portland,Gold,2020-05-31
+C-00229,Riley Davis,Corporate,Dallas,Bronze,2021-06-30
+C-00230,Skyler Martinez,Home Office,Boston,Bronze,2018-08-04
+C-00231,Jordan Lee,Home Office,Seattle,Silver,2021-01-19
+C-00232,Jamie Thomas,Corporate,Austin,Silver,2022-08-24
+C-00233,Morgan Garcia,Home Office,Portland,Bronze,2019-03-31
+C-00234,Morgan Thomas,Home Office,Boston,Silver,2025-06-25
+C-00235,Morgan Smith,Consumer,Denver,Platinum,2018-08-13
+C-00236,Alex Garcia,Corporate,Los Angeles,Gold,2020-11-12
+C-00237,Morgan Martinez,Consumer,Seattle,Silver,2022-10-30
+C-00238,Jordan Lee,Corporate,New York,Gold,2023-08-12
+C-00239,Avery Patel,Home Office,Dallas,Bronze,2018-06-23
+C-00240,Riley Smith,Corporate,Portland,Gold,2024-06-16
+C-00241,Riley Anderson,Corporate,Miami,Silver,2021-03-31
+C-00242,Sam Davis,Consumer,Dallas,Bronze,2024-12-06
+C-00243,Jamie Patel,Home Office,Dallas,Bronze,2019-03-10
+C-00244,Taylor Davis,Home Office,Denver,Silver,2022-06-10
+C-00245,Cameron Brown,Home Office,Dallas,Bronze,2019-11-20
+C-00246,Sam Wilson,Home Office,Portland,Silver,2020-03-05
+C-00247,Reese Jackson,Corporate,Dallas,Gold,2025-03-28
+C-00248,Cameron Lee,Consumer,Portland,Bronze,2020-03-19
+C-00249,Jordan Anderson,Consumer,Atlanta,Bronze,2025-01-16
+C-00250,Jamie Lopez,Home Office,Boston,Silver,2024-05-01
+C-00251,Drew Thomas,Home Office,Dallas,Gold,2025-01-13
+C-00252,Casey Lee,Corporate,Portland,Silver,2025-01-30
+C-00253,Morgan Jackson,Corporate,Boston,Bronze,2023-09-10
+C-00254,Sam Brown,Corporate,Austin,Bronze,2022-02-19
+C-00255,Cameron Brown,Consumer,Atlanta,Gold,2019-01-05
+C-00256,Quinn Anderson,Home Office,Denver,Silver,2024-03-20
+C-00257,Robin Moore,Consumer,Austin,Platinum,2024-05-30
+C-00258,Drew Garcia,Corporate,Boston,Silver,2019-09-10
+C-00259,Alex Lopez,Consumer,Dallas,Platinum,2018-12-12
+C-00260,Avery Thomas,Consumer,Seattle,Bronze,2022-11-29
+C-00261,Jamie Wilson,Home Office,Boston,Bronze,2022-03-08
+C-00262,Reese Brown,Corporate,Denver,Gold,2025-08-12
+C-00263,Quinn Smith,Home Office,Atlanta,Bronze,2021-09-12
+C-00264,Sam Wilson,Home Office,Denver,Bronze,2025-05-13
+C-00265,Reese Anderson,Consumer,Dallas,Bronze,2025-06-11
+C-00266,Jordan Nguyen,Corporate,Chicago,Platinum,2025-10-31
+C-00267,Drew Davis,Consumer,Boston,Gold,2018-12-14
+C-00268,Morgan Wilson,Corporate,Atlanta,Gold,2019-06-08
+C-00269,Drew Moore,Home Office,Atlanta,Platinum,2019-01-18
+C-00270,Drew Thomas,Corporate,New York,Bronze,2022-01-25
+C-00271,Morgan Lee,Consumer,Dallas,Platinum,2023-06-15
+C-00272,Taylor Garcia,Consumer,San Francisco,Bronze,2019-02-19
+C-00273,Avery Jackson,Home Office,Miami,Gold,2018-06-04
+C-00274,Drew Martinez,Home Office,San Francisco,Silver,2019-09-24
+C-00275,Jordan Lee,Home Office,Boston,Gold,2019-11-10
+C-00276,Skyler Lopez,Consumer,Denver,Bronze,2020-08-30
+C-00277,Jamie Anderson,Corporate,Miami,Gold,2020-08-16
+C-00278,Avery Garcia,Corporate,Austin,Platinum,2020-03-05
+C-00279,Casey Thomas,Home Office,Austin,Silver,2021-02-28
+C-00280,Robin Davis,Home Office,New York,Silver,2019-10-26
+C-00281,Cameron Garcia,Home Office,San Francisco,Gold,2018-08-02
+C-00282,Drew Lopez,Corporate,New York,Platinum,2023-10-15
+C-00283,Cameron Johnson,Corporate,Portland,Gold,2021-01-22
+C-00284,Jamie Nguyen,Home Office,San Francisco,Gold,2019-01-11
+C-00285,Reese Garcia,Corporate,Dallas,Platinum,2022-08-27
+C-00286,Alex Davis,Home Office,Dallas,Bronze,2018-12-01
+C-00287,Casey Garcia,Consumer,Dallas,Platinum,2025-04-16
+C-00288,Casey Jackson,Consumer,San Francisco,Bronze,2023-04-20
+C-00289,Skyler Patel,Consumer,Miami,Silver,2024-11-25
+C-00290,Alex Nguyen,Consumer,Seattle,Bronze,2019-09-05
+C-00291,Avery Moore,Home Office,New York,Silver,2021-03-26
+C-00292,Taylor Brown,Consumer,Seattle,Bronze,2025-03-02
+C-00293,Robin Anderson,Corporate,Portland,Bronze,2023-08-10
+C-00294,Quinn Wilson,Consumer,Atlanta,Silver,2020-09-17
+C-00295,Skyler Lee,Corporate,Denver,Bronze,2021-12-16
+C-00296,Taylor Anderson,Corporate,San Francisco,Silver,2018-12-17
+C-00297,Avery Martinez,Consumer,New York,Silver,2023-09-11
+C-00298,Avery Smith,Corporate,Austin,Bronze,2022-05-04
+C-00299,Casey Brown,Home Office,Seattle,Bronze,2018-10-04
+C-00300,Casey Garcia,Home Office,Atlanta,Silver,2024-07-11
+C-00301,Skyler Jackson,Corporate,San Francisco,Bronze,2024-02-15
+C-00302,Casey Patel,Home Office,San Francisco,Gold,2025-09-05
+C-00303,Jamie Moore,Corporate,Atlanta,Bronze,2019-07-07
+C-00304,Sam Moore,Corporate,Seattle,Bronze,2018-06-29
+C-00305,Robin Garcia,Consumer,Dallas,Platinum,2023-10-13
+C-00306,Riley Patel,Home Office,Austin,Bronze,2025-04-03
+C-00307,Taylor Brown,Corporate,Seattle,Gold,2021-09-21
+C-00308,Morgan Johnson,Corporate,Denver,Gold,2022-12-07
+C-00309,Reese Davis,Corporate,San Francisco,Silver,2023-07-31
+C-00310,Casey Nguyen,Home Office,Chicago,Gold,2022-10-05
+C-00311,Sam Davis,Home Office,San Francisco,Silver,2021-08-08
+C-00312,Sam Johnson,Corporate,Atlanta,Bronze,2023-01-01
+C-00313,Quinn Moore,Corporate,San Francisco,Silver,2021-12-10
+C-00314,Jamie Smith,Home Office,Dallas,Silver,2022-11-17
+C-00315,Morgan Thomas,Consumer,Portland,Silver,2022-07-22
+C-00316,Casey Wilson,Home Office,Atlanta,Bronze,2018-05-08
+C-00317,Jordan Patel,Home Office,Atlanta,Gold,2018-05-23
+C-00318,Jordan Johnson,Consumer,Atlanta,Bronze,2022-04-18
+C-00319,Quinn Smith,Home Office,San Francisco,Silver,2022-02-28
+C-00320,Casey Lopez,Consumer,Boston,Bronze,2022-02-12
+C-00321,Riley Martinez,Home Office,Chicago,Bronze,2019-04-10
+C-00322,Alex Moore,Consumer,Austin,Silver,2024-04-19
+C-00323,Sam Brown,Corporate,Miami,Silver,2024-11-11
+C-00324,Morgan Moore,Corporate,Los Angeles,Bronze,2018-10-31
+C-00325,Jamie Lee,Home Office,Austin,Platinum,2025-08-25
+C-00326,Cameron Martinez,Home Office,Dallas,Gold,2024-03-02
+C-00327,Avery Brown,Corporate,San Francisco,Gold,2025-11-08
+C-00328,Drew Lee,Corporate,New York,Bronze,2020-04-03
+C-00329,Robin Lee,Consumer,Austin,Bronze,2024-03-19
+C-00330,Quinn Martinez,Corporate,New York,Bronze,2018-12-20
+C-00331,Sam Brown,Corporate,Miami,Gold,2023-11-24
+C-00332,Riley Jackson,Corporate,Boston,Bronze,2021-07-22
+C-00333,Drew Johnson,Corporate,Austin,Silver,2021-11-12
+C-00334,Jordan Nguyen,Home Office,Atlanta,Silver,2019-06-13
+C-00335,Riley Wilson,Consumer,Portland,Silver,2021-05-30
+C-00336,Jordan Lee,Corporate,Miami,Bronze,2023-10-27
+C-00337,Reese Brown,Consumer,Chicago,Bronze,2024-03-06
+C-00338,Morgan Lee,Home Office,Chicago,Silver,2019-01-18
+C-00339,Avery Thomas,Consumer,Boston,Platinum,2019-09-24
+C-00340,Jordan Thomas,Home Office,Miami,Platinum,2021-10-14
+C-00341,Cameron Nguyen,Home Office,Seattle,Gold,2018-04-27
+C-00342,Sam Smith,Home Office,Boston,Bronze,2020-05-13
+C-00343,Robin Anderson,Corporate,Boston,Silver,2023-08-02
+C-00344,Reese Thomas,Home Office,Chicago,Silver,2021-05-22
+C-00345,Jamie Garcia,Home Office,Denver,Bronze,2018-10-26
+C-00346,Skyler Smith,Consumer,Austin,Silver,2023-03-18
+C-00347,Taylor Martinez,Home Office,San Francisco,Bronze,2021-07-31
+C-00348,Skyler Patel,Corporate,Denver,Bronze,2022-02-26
+C-00349,Avery Wilson,Consumer,Dallas,Bronze,2019-05-17
+C-00350,Morgan Lopez,Consumer,San Francisco,Bronze,2021-04-03
+C-00351,Riley Patel,Home Office,Denver,Bronze,2019-10-17
+C-00352,Cameron Martinez,Home Office,Miami,Bronze,2019-10-15
+C-00353,Jamie Wilson,Corporate,Austin,Gold,2023-07-31
+C-00354,Alex Johnson,Corporate,New York,Silver,2020-09-13
+C-00355,Taylor Anderson,Corporate,Seattle,Bronze,2023-07-21
+C-00356,Quinn Nguyen,Home Office,Atlanta,Silver,2024-01-08
+C-00357,Alex Patel,Consumer,Denver,Bronze,2020-12-19
+C-00358,Skyler Martinez,Corporate,Dallas,Bronze,2018-07-29
+C-00359,Quinn Wilson,Consumer,Dallas,Silver,2018-10-29
+C-00360,Riley Wilson,Corporate,New York,Bronze,2024-12-27
+C-00361,Drew Anderson,Consumer,San Francisco,Platinum,2022-06-02
+C-00362,Casey Jackson,Corporate,New York,Platinum,2019-08-14
+C-00363,Taylor Anderson,Home Office,Denver,Silver,2018-07-05
+C-00364,Alex Lee,Home Office,Dallas,Gold,2023-10-29
+C-00365,Jamie Lee,Home Office,New York,Bronze,2024-11-16
+C-00366,Casey Lee,Corporate,Boston,Gold,2021-05-10
+C-00367,Quinn Martinez,Home Office,New York,Silver,2024-04-24
+C-00368,Morgan Lopez,Consumer,Dallas,Bronze,2019-03-25
+C-00369,Riley Anderson,Corporate,Miami,Gold,2025-01-21
+C-00370,Alex Anderson,Corporate,Chicago,Platinum,2024-06-27
+C-00371,Quinn Garcia,Home Office,Seattle,Silver,2019-11-30
+C-00372,Avery Thomas,Home Office,Boston,Gold,2022-04-07
+C-00373,Jordan Patel,Home Office,Los Angeles,Bronze,2025-11-09
+C-00374,Sam Garcia,Consumer,Austin,Bronze,2019-09-13
+C-00375,Riley Moore,Consumer,Denver,Silver,2024-11-09
+C-00376,Reese Lopez,Home Office,Miami,Bronze,2019-07-20
+C-00377,Avery Garcia,Home Office,Dallas,Platinum,2023-05-14
+C-00378,Avery Davis,Corporate,San Francisco,Silver,2023-12-24
+C-00379,Casey Wilson,Corporate,Atlanta,Gold,2025-08-20
+C-00380,Drew Jackson,Home Office,Chicago,Silver,2020-02-27
+C-00381,Taylor Brown,Home Office,Chicago,Bronze,2021-05-04
+C-00382,Robin Brown,Home Office,Los Angeles,Silver,2023-06-26
+C-00383,Casey Lopez,Corporate,New York,Platinum,2021-01-25
+C-00384,Morgan Johnson,Home Office,Atlanta,Silver,2022-06-05
+C-00385,Cameron Martinez,Consumer,Chicago,Bronze,2018-11-20
+C-00386,Casey Nguyen,Corporate,Atlanta,Bronze,2023-05-17
+C-00387,Taylor Garcia,Home Office,Chicago,Platinum,2025-10-22
+C-00388,Morgan Lee,Consumer,Boston,Gold,2020-09-07
+C-00389,Taylor Smith,Home Office,New York,Bronze,2020-08-11
+C-00390,Alex Johnson,Corporate,Dallas,Gold,2019-02-16
+C-00391,Drew Jackson,Consumer,Seattle,Platinum,2019-10-09
+C-00392,Riley Thomas,Corporate,Austin,Silver,2021-03-22
+C-00393,Casey Brown,Home Office,Seattle,Platinum,2019-01-02
+C-00394,Drew Anderson,Consumer,New York,Gold,2018-06-02
+C-00395,Reese Nguyen,Consumer,Denver,Gold,2019-12-22
+C-00396,Reese Nguyen,Consumer,Denver,Gold,2020-02-03
+C-00397,Reese Moore,Corporate,Seattle,Bronze,2024-05-15
+C-00398,Quinn Johnson,Corporate,Chicago,Silver,2025-03-11
+C-00399,Avery Wilson,Corporate,San Francisco,Gold,2023-04-02
+C-00400,Morgan Garcia,Consumer,Dallas,Bronze,2023-02-23
+C-00401,Drew Brown,Home Office,San Francisco,Bronze,2021-10-12
+C-00402,Robin Brown,Home Office,Atlanta,Gold,2019-12-20
+C-00403,Quinn Patel,Home Office,Denver,Gold,2023-10-12
+C-00404,Casey Johnson,Corporate,Atlanta,Bronze,2019-07-30
+C-00405,Jamie Martinez,Consumer,Seattle,Bronze,2020-08-22
+C-00406,Jamie Jackson,Corporate,Dallas,Bronze,2024-06-04
+C-00407,Alex Brown,Home Office,Dallas,Silver,2018-09-12
+C-00408,Drew Johnson,Corporate,Chicago,Bronze,2025-09-11
+C-00409,Avery Nguyen,Home Office,Chicago,Silver,2025-03-01
+C-00410,Reese Brown,Corporate,Boston,Bronze,2019-07-02
+C-00411,Jamie Lee,Corporate,Miami,Platinum,2022-03-11
+C-00412,Riley Moore,Home Office,Austin,Gold,2025-06-13
+C-00413,Cameron Garcia,Consumer,Atlanta,Gold,2018-12-02
+C-00414,Avery Lopez,Home Office,Miami,Bronze,2024-04-29
+C-00415,Sam Smith,Home Office,New York,Bronze,2024-01-08
+C-00416,Jordan Lee,Corporate,New York,Silver,2025-08-18
+C-00417,Taylor Moore,Home Office,Austin,Bronze,2023-09-22
+C-00418,Jamie Jackson,Consumer,Austin,Bronze,2022-08-29
+C-00419,Jamie Anderson,Consumer,New York,Silver,2021-06-16
+C-00420,Skyler Smith,Corporate,Chicago,Gold,2020-06-11
+C-00421,Quinn Johnson,Consumer,Denver,Bronze,2018-09-19
+C-00422,Avery Smith,Consumer,Austin,Bronze,2022-08-02
+C-00423,Jordan Jackson,Consumer,Atlanta,Platinum,2025-03-30
+C-00424,Riley Martinez,Corporate,Austin,Gold,2022-03-27
+C-00425,Riley Johnson,Home Office,Atlanta,Gold,2019-06-29
+C-00426,Drew Patel,Corporate,Portland,Bronze,2024-01-10
+C-00427,Riley Wilson,Consumer,Miami,Platinum,2018-01-15
+C-00428,Robin Smith,Corporate,Austin,Silver,2024-02-09
+C-00429,Riley Wilson,Corporate,Los Angeles,Bronze,2021-11-18
+C-00430,Jordan Brown,Consumer,Miami,Gold,2018-05-12
+C-00431,Robin Thomas,Corporate,Boston,Gold,2018-03-06
+C-00432,Taylor Garcia,Consumer,Portland,Silver,2023-01-03
+C-00433,Quinn Thomas,Home Office,Seattle,Bronze,2018-07-01
+C-00434,Riley Lopez,Consumer,New York,Bronze,2018-08-20
+C-00435,Jordan Wilson,Corporate,Los Angeles,Gold,2024-06-17
+C-00436,Casey Anderson,Home Office,Atlanta,Gold,2020-08-28
+C-00437,Morgan Nguyen,Consumer,Atlanta,Silver,2022-08-21
+C-00438,Morgan Brown,Consumer,New York,Platinum,2019-12-19
+C-00439,Drew Thomas,Corporate,New York,Silver,2021-11-11
+C-00440,Drew Thomas,Corporate,New York,Bronze,2022-09-02
+C-00441,Riley Lee,Corporate,Denver,Bronze,2024-01-13
+C-00442,Jamie Garcia,Consumer,Chicago,Gold,2019-08-15
+C-00443,Robin Lopez,Consumer,New York,Silver,2022-09-03
+C-00444,Avery Wilson,Consumer,Denver,Bronze,2020-04-12
+C-00445,Casey Thomas,Consumer,Austin,Gold,2019-01-14
+C-00446,Avery Moore,Consumer,Seattle,Bronze,2025-07-22
+C-00447,Quinn Anderson,Consumer,Portland,Bronze,2024-08-03
+C-00448,Skyler Thomas,Home Office,Los Angeles,Silver,2021-09-25
+C-00449,Morgan Nguyen,Consumer,Los Angeles,Platinum,2019-04-26
+C-00450,Skyler Jackson,Corporate,Los Angeles,Silver,2025-11-22
+C-00451,Taylor Davis,Consumer,New York,Bronze,2021-03-05
+C-00452,Riley Lopez,Home Office,Atlanta,Bronze,2020-12-07
+C-00453,Casey Wilson,Corporate,Austin,Bronze,2023-04-08
+C-00454,Robin Patel,Corporate,Los Angeles,Bronze,2022-08-23
+C-00455,Alex Anderson,Consumer,Miami,Bronze,2020-12-04
+C-00456,Avery Nguyen,Home Office,Boston,Gold,2021-04-24
+C-00457,Jordan Garcia,Corporate,Los Angeles,Bronze,2020-10-03
+C-00458,Jamie Wilson,Home Office,Atlanta,Bronze,2023-06-25
+C-00459,Skyler Thomas,Home Office,Austin,Silver,2021-12-13
+C-00460,Jordan Lee,Home Office,New York,Silver,2024-01-30
+C-00461,Drew Smith,Home Office,Seattle,Gold,2018-11-01
+C-00462,Cameron Thomas,Consumer,Seattle,Silver,2025-01-27
+C-00463,Taylor Johnson,Home Office,San Francisco,Bronze,2023-09-03
+C-00464,Jamie Martinez,Consumer,Boston,Silver,2024-11-30
+C-00465,Reese Lopez,Home Office,Austin,Bronze,2023-12-20
+C-00466,Avery Davis,Consumer,Seattle,Silver,2021-01-30
+C-00467,Avery Brown,Consumer,New York,Gold,2025-07-23
+C-00468,Riley Jackson,Consumer,Portland,Platinum,2023-11-18
+C-00469,Jordan Garcia,Consumer,Boston,Silver,2021-12-22
+C-00470,Morgan Jackson,Corporate,Portland,Bronze,2022-07-22
+C-00471,Jamie Anderson,Consumer,Miami,Bronze,2025-09-02
+C-00472,Cameron Patel,Consumer,Atlanta,Platinum,2025-04-15
+C-00473,Robin Smith,Consumer,Denver,Bronze,2024-03-13
+C-00474,Jamie Smith,Home Office,Seattle,Gold,2018-12-05
+C-00475,Jamie Patel,Corporate,Atlanta,Gold,2024-05-06
+C-00476,Cameron Johnson,Home Office,Seattle,Bronze,2025-10-06
+C-00477,Reese Anderson,Corporate,Chicago,Bronze,2018-11-01
+C-00478,Drew Nguyen,Corporate,New York,Silver,2018-05-15
+C-00479,Jordan Nguyen,Corporate,Seattle,Platinum,2024-08-01
+C-00480,Jordan Jackson,Home Office,Denver,Platinum,2021-05-10
+C-00481,Jordan Anderson,Consumer,Boston,Gold,2022-05-13
+C-00482,Drew Nguyen,Home Office,Dallas,Bronze,2019-07-28
+C-00483,Robin Moore,Home Office,Portland,Silver,2021-11-17
+C-00484,Alex Johnson,Corporate,Los Angeles,Gold,2021-10-27
+C-00485,Quinn Jackson,Home Office,Boston,Bronze,2021-08-29
+C-00486,Alex Thomas,Corporate,Austin,Silver,2021-12-28
+C-00487,Avery Davis,Corporate,San Francisco,Silver,2025-05-30
+C-00488,Riley Johnson,Home Office,Chicago,Gold,2018-10-29
+C-00489,Sam Brown,Consumer,Denver,Gold,2025-02-09
+C-00490,Jordan Moore,Corporate,Dallas,Bronze,2019-01-10
+C-00491,Alex Brown,Corporate,Dallas,Gold,2019-02-23
+C-00492,Jordan Johnson,Consumer,Denver,Silver,2024-03-22
+C-00493,Avery Davis,Consumer,Seattle,Bronze,2024-03-20
+C-00494,Sam Anderson,Home Office,Dallas,Gold,2018-02-20
+C-00495,Morgan Davis,Corporate,Portland,Gold,2024-04-10
+C-00496,Reese Garcia,Home Office,New York,Bronze,2022-04-09
+C-00497,Jordan Lee,Corporate,Chicago,Bronze,2019-08-21
+C-00498,Sam Lee,Corporate,Chicago,Silver,2023-06-07
+C-00499,Robin Johnson,Corporate,Chicago,Platinum,2025-01-04
+C-00500,Jamie Anderson,Home Office,Los Angeles,Silver,2019-07-09
